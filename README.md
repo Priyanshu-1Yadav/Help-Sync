@@ -1,2 +1,0 @@
-# Help-Sync
-Helping Portal 
